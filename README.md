@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-In this project i have used Carousel_pro package that doesn't support null safety so please run this project with below command
+In this project i have used Carousel_pro package which doesn't supports null safety so please run this project with below command
 flutter run --no-sound-null-safety
 
 This project is a starting point for a Flutter application.
